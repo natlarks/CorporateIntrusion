@@ -1,6 +1,8 @@
 # Overview
 This week our assignment was to have three VMs on a network (Alpha, Beta and Omega) and obtain access to Omega through Alpha and Omega.
 
+![net.JPG](net.JPG)
+
 # Setting up Kali VM
 1. Go to https://www.kali.org/downloads/ and download the Kali Linux ISO (The download will take a while). Remember the path of where the file is located.
 2. Once the download is finished, open up VMWare.
@@ -70,3 +72,6 @@ To get access to Omega, I am first attacking Alpha from my Kali VM to get access
 11. Congrats! You have a shell now on Beta!
 12. Type ```cat password.txt``` to read a file with credentials.
 13. You now have the credentials to the Omega VM!
+
+![success1.JPG](success1.JPG)
+![SUCCESS.JPG](SUCCESS.JPG)
