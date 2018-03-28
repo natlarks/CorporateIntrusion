@@ -70,8 +70,9 @@ To get access to Omega, I am first attacking Alpha from my Kali VM to get access
 9. Enter ```set RHOST 127.0.0.1```
 10. Type ```run``` or ```exploit```.
 11. Congrats! You have a shell now on Beta!
+![success1.JPG](success1.JPG)
+![SUCCESS.JPG](SUCCESS.JPG)
 12. Type ```cat password.txt``` to read a file with credentials.
 13. You now have the credentials to the Omega VM!
 
-![success1.JPG](success1.JPG)
-![SUCCESS.JPG](SUCCESS.JPG)
+![creds.JPG](creds.JPG)
